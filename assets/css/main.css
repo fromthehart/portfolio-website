@@ -2445,3 +2445,7 @@ input, select, textarea {
 	.image.centered img {
 		max-width: 100%;
 	}
+
+	.box {
+		border: 1px solid grey;
+	}

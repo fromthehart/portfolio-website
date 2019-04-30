@@ -2429,3 +2429,19 @@ input, select, textarea {
 					}
 
 	}
+
+	/* Custom classes */
+
+	.red {
+		color: red;
+	}
+	.green {
+		color: green;
+	}
+	.blue {
+		color: blue;
+	}
+
+	.image.centered img {
+		max-width: 100%;
+	}
